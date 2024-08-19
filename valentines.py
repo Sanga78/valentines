@@ -1,6 +1,6 @@
 import time
 
-intro = "💖💖💖...Welcome to Kelvin's Valentines Heart warmer😊🥰💖...\n...Celebrate your valentines in style😘🎉🥳\n"
+intro = "💖💖💖...Welcome to sanga's Valentines Heart warmer😊🥰💖...\n...Celebrate your valentines in style😘🎉🥳\n"
 for i in range(len(intro)):
     print(intro[i],sep='',end='',flush=True);time.sleep(0.05)
     
